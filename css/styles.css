@@ -306,7 +306,7 @@ cursor: pointer;
 [type="checkbox"]:checked + .label-modal-check::before {
 border-color: var(--logo-color);
 color: var(--logo-color);
-content:url(/images/iconss/ícono\ revisado\ \(2\).svg);
+content:url(/images/iconss/ícono-revisado.svg);
 background-color: var(--logo-color);
 width: 17px;
 height: 17px;
