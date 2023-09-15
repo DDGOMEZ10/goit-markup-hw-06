@@ -436,7 +436,7 @@ cursor: pointer;
   border-radius: 4px;
   background-color: #2196f3;
   color: var(--footer-text-color);
-  font-size: inherit;
+  margin-left: 120px;
   cursor: pointer;
   width: 200px;
 height: 50px;
